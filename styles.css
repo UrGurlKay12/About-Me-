@@ -1,0 +1,28 @@
+body {
+  background-image: url("https://i.pinimg.com/originals/6a/df/d5/6adfd5ff80935f142c0b6cac62848144.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {
+  text-align: center;
+  background-color: #82a6b1;
+  border-top: dotted 10px white;
+  border-bottom: dotted 10px white;
+}
+h2 {
+  background-color: #166da4;
+}
+th {
+  background-color: #90bede;
+  border-top: solid purple;
+  border-bottom: solid purple;
+}
+td {
+  background-color: #7cd6d2;
+  border-top: solid purple;
+  border-bottom: solid purple;
+}
+ol,
+ul {
+  font-size: 25px;
+}
